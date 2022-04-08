@@ -34,7 +34,7 @@ If you believe a typical mind map activity (like the other wrap ups for the othe
 
 ## Simon Notes
 
-To create the topic list and groupings, I took the name of every topic in the curriculum (that had meaningful lessons) and I listed it. Then, I combined line-items that could be reasonably researched by one person within ~15 minutes, usually by my gauge that the material is light and related. I did this until there were ~24 topics (one topic for each student in a 24-person classroom).
+To create the topic list and groupings, I took the name of every topic in the curriculum (that had meaningful lessons) and I listed it. Then, I combined line-items that I thought could be reasonably researched by one person within ~15 minutes, usually by my gauge that the material is light and related. I did this until there were ~24 topics (one topic for each student in a 24-person classroom).
 
 <details>
 
@@ -99,13 +99,13 @@ To create the topic list and groupings, I took the name of every topic in the cu
 
 </details>
 
-The steps/directions are written intentionally so that students don't have many opportunities to "overrun" each other during the pair phase (whether a student pair has a student who overly critiques or inserts their opinion/material, or gets left behind).
+The steps/directions are written intentionally so that students don't have many opportunities to "overrun" each other during the pair phase (whether a student pair has a student who overly critiques or inserts their opinion/material, or a student who gets left behind).
 
 ### !callout-info
 
 ## Didn't Confidently Suggest Pre-making Slide Decks
 
-Having one slide deck for the entire class at the beginning means that 24 users will be touching <=96 slides. I'm not confident that Google Drive can handle that, so I didn't concretely suggest making a slide deck from the beginning.
+Having one slide deck for the entire class at the beginning means that 24 users will be touching ~96 slides. I'm not confident that Google Drive can handle that, so I didn't concretely suggest making a slide deck from the beginning.
 
 ### !end-callout
 

@@ -6,11 +6,11 @@ Our goal is to create a review document for _all of the material in **the entire
 
 To create a document of such impressive scope, we'll work collaboratively! Each collaborator will have the shared responsibility of contributing material. The more clear everyone's contributions are, the more clear everyone's final review material will be!
 
-Our goal is to create a review document that "_has enough depth to be helpful at the end of the Ada program_." Therefore, our review materials should focus on:
+Our goal is to create a review document that "_has enough depth to be a helpful review at the end of the Ada program_." Therefore, our review materials should focus on:
 
 - Vocabulary and definitions
 - Clear examples (code examples or examples of application)
-- Descriptions of the 2-4 _most_ _important_ details about the topic
+- Descriptions of the 1-3 _most_ _important_ details about the topic
 
 ### !callout-info
 
@@ -20,7 +20,7 @@ Have you ever started a long book, video game, or TV show, dropped it, and then 
 
 <br/>
 
-Did you remember everything you needed to remember in order to get back into it? You might have wanted a recap of the story, what was going on, who the characters are, and what was important. Our goal is to create a "cheat sheet" to help give these kinds of details to you, but about programming.
+Did you remember everything you needed to remember in order to get back into it? You might have wanted a recap of the story, what was going on, who the characters are, and what was important. Our goal is to create a "cheat sheet" that gives these kinds of details to you, but about programming.
 
 ### !end-callout
 
@@ -39,7 +39,7 @@ Within small groups, read the listed topics together. Then, assign one set of to
 Then, follow the phases Think, Pair, and Share:
 
 1. (~15 min.) Individually create initial review material for your assigned topics and lessons.
-1. (~20-35 min.) With a pair, develop the review material into a shareable slide deck.
+1. (~35-40 min.) With a pair, develop the review material into a shareable slide deck.
 1. (Remaining time) With a large group, share and present the created review material.
 1. In the end, follow instructions to add your review slides to the classroom's collective review document.
 
@@ -47,28 +47,44 @@ Then, follow the phases Think, Pair, and Share:
 
 Consider your assigned set of topics. These topics are all names of topics in the curriculum.
 
-Begin to create a review guide for every lesson within those assigned topics. Write your notes on paper or in a document.
+In the Think Phase, your goal is to write down the answer to this question: **What are the top 1, 2, or 3 most important takeaways for each topic?**
 
-Find:
+These notes will be the beginning of a review guide. Write your notes on paper or in a document.
+
+Focus on:
 
 - important vocabulary and clear definitions
 - descriptions of important concepts
 - straightforward code examples
 - descriptions of the lesson's learning goals
+- diagrams and images
 
 **It's probably impossible to document everything**.
 
 It's up to **you** to determine and prioritize **the most important information needed** for review. Use the full activity time available.
 
+#### Tips
+
+Start with your responses to the question "What was your biggest takeaway from this lesson?" located at the end of most lessons.
+
 ### Pair Phase
 
-Pair with another person in your group.
+Pair with another person in your group. In the pair, one person is Person A, and the other person is Person B.
 
-First, give an overview of your notes to each other.
+1. Review Person A's notes in four minutes or less.
+    - Person A should describe the most important pieces of content, and ask Person B how clear the review notes are
+    - Person B should listen to see how clear and effective the notes are
+1. In 15 minutes or less, collaboratively create a maximum of four slides to summarize Person A's notes. Work together to figure out how to best summarize the material.
 
-Then, collaboratively create a **maximum of four slides** for each set of topics. (Every person was assigned one set of topics. Therefore, a pair should have a maximum of eight slides created, and a group of four members should have a maximum of 16 slides.)
+    Use this time to:
 
-Feel free to focus on code examples, diagrams, and definitions.
+    - Copy and paste code snippets, definitions, and diagrams
+    - Organize and highlight important information
+    - Summarize material
+
+1. After 15 minutes, move on from Person A's slides, even if the slides are incomplete.
+1. In four minutes or less, review Person B's notes, similar to step 1.
+1. In 15 minutes or less, collaboratively create slides to summarize Person B's notes.
 
 ### Share Phase
 
@@ -81,11 +97,11 @@ Follow directions from the facilitator to share and present the material.
 1. What is Software Development?; Intro to Dev Environment; Approaching a Problem
 1. Intro to Debugging; Intermediate Python Debugging
 1. Intro to Functions; Functions, Continued
-1. Representing Data; Iterating Over Data; Nested Data and Nested Loops
+1. Representing Data; Iterating Over Data; Nested Data and Nested Loops; While Loops
 
 ### Group 2
 
-1. Intro to Tests; While Loops; Exception Handling
+1. Intro to Tests; Exception Handling
 1. Big O; Lists and Memory
 1. Intro to Git; Branches in Git
 1. Intro to OOP; Intro to OOP, Cont'd; Python OOP
@@ -109,11 +125,11 @@ Follow directions from the facilitator to share and present the material.
 1. Web Browsers; Structuring Content
 1. Styles and Presentation; More Neat CSS Things; Layout
 1. Learning Another Language
-1. Functions
+1. Functions; Tests (Unit 3)
 
 ### Group 6
 
-1. Tests (Unit 3); Algorithmic Strategies
+1. Algorithmic Strategies
 1. Adding Behavior; Event Handling; Calling APIs
 1. React Components; Props
 1. State and Event Handling; Lifting State Up; useEffect and Calling APIs
